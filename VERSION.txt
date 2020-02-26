@@ -1,3 +1,5 @@
+jetty-9.4.28-SNAPSHOT
+
 jetty-9.4.27.v20200226 - 26 February 2020
  + 4247 Cookie security attributes are going to mandated by Google Chrome
  + 4360 Upgrade to Apache Jasper 8.5.49
